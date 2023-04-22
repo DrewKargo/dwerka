@@ -1,0 +1,564 @@
+{
+  "cart": [
+    {
+      "category": "дверь",
+      "id": 35,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/Lloyd.png?alt=media&token=077d927f-f1a4-410a-a23d-8a37eab349e9"
+      ],
+		"price": 16610,
+		"oldPriice" : 18400,
+		"quantity": 1,
+		"title": "Ллойд"
+    },
+    {
+		 "category": "дверь",
+		 "id": 36,
+		 "images": [
+			 "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/Oliva.png?alt=media&token=f5202b34-1666-43d1-af02-871deee9b69b"
+			],
+			"price": 39850,
+			"oldPriice" : 42000,
+			"quantity": 1,
+			"title": "Олива"
+    }
+  ],
+  "last-seen": [
+	{
+      "category": "дверь",
+      "id": 35,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/Lloyd.png?alt=media&token=077d927f-f1a4-410a-a23d-8a37eab349e9"
+      ],
+		"price": 16610,
+		"oldPriice" : 18400,
+		"discountPercentage": 10,
+		"quantity": 1,
+		"title": "Ллойд"
+    },
+    {
+		 "category": "дверь",
+		 "id": 36,
+		 "images": [
+			 "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/Oliva.png?alt=media&token=f5202b34-1666-43d1-af02-871deee9b69b"
+			],
+			"price": 39850,
+			"oldPriice" : 42000,
+			"discountPercentage": 5,
+			"quantity": 1,
+			"title": "Олива"
+    }
+  ],
+  "products": [
+    {
+      "category": "фурнитура",
+      "color": "grey",
+      "discountPercentage": 15,
+      "id": 1,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/1.png?alt=media&token=3660f3ae-8b8c-451c-b28c-40168276c23d"
+      ],
+      "oldPriice": 1050,
+      "popularity": 6,
+      "price": 890,
+      "rate": 3,
+      "stock": 94,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "black",
+      "discountPercentage": 26,
+      "id": 2,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/2.png?alt=media&token=cfecfe33-e7bf-4792-9a1d-fb56a363ae1e"
+      ],
+      "oldPriice": 1250,
+      "popularity": 91,
+      "price": 920,
+      "rate": 5,
+      "stock": 9,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 19,
+      "id": 3,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/3.png?alt=media&token=c9b40995-540e-4c37-87eb-446ca2c4a389"
+      ],
+      "oldPriice": 1050,
+      "popularity": 80,
+      "price": 850,
+      "rate": 5,
+      "stock": 20,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 17,
+      "id": 4,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/4.png?alt=media&token=0ce867f4-833d-4c80-af4c-04b4122c0915"
+      ],
+      "oldPriice": 1150,
+      "popularity": 86,
+      "price": 950,
+      "rate": 4,
+      "stock": 14,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 17,
+      "id": 5,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/4.png?alt=media&token=0ce867f4-833d-4c80-af4c-04b4122c0915"
+      ],
+      "oldPriice": 1150,
+      "popularity": 45,
+      "price": 950,
+      "rate": 5,
+      "stock": 55,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 24,
+      "id": 6,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/5.png?alt=media&token=1020ef93-8cad-4a00-8b6e-ac2e5a4c8603"
+      ],
+      "oldPriice": 1300,
+      "popularity": 95,
+      "price": 980,
+      "rate": 3,
+      "stock": 5,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "gold",
+      "discountPercentage": 24,
+      "id": 7,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/6.png?alt=media&token=1616a80b-8cf2-491c-86b7-820b412e01a3"
+      ],
+      "oldPriice": 1350,
+      "popularity": 91,
+      "price": 1020,
+      "rate": 0,
+      "stock": 9,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "darkGrey",
+      "discountPercentage": 24,
+      "id": 8,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/7.png?alt=media&token=59bc2004-f287-4668-b7df-eb3cfaf22cd5"
+      ],
+      "oldPriice": 1350,
+      "popularity": 85,
+      "price": 1020,
+      "rate": 5,
+      "stock": 15,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "white",
+      "discountPercentage": 11,
+      "id": 9,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/8.png?alt=media&token=344be0ed-dd49-44fc-b956-f3cf3bba42e3"
+      ],
+      "oldPriice": 1350,
+      "popularity": 99,
+      "price": 1200,
+      "rate": 4,
+      "stock": 1,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "darkGrey",
+      "discountPercentage": 18,
+      "id": 10,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/9.png?alt=media&token=a39f3238-0545-417f-846e-32e99fab1582"
+      ],
+      "oldPriice": 920,
+      "popularity": 90,
+      "price": 750,
+      "rate": 3,
+      "stock": 10,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "black",
+      "discountPercentage": 13,
+      "id": 11,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/10.png?alt=media&token=81a98166-ba0c-4df2-b6d4-507690000941"
+      ],
+      "oldPriice": 950,
+      "popularity": 85,
+      "price": 820,
+      "rate": 5,
+      "stock": 15,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "black",
+      "discountPercentage": 13,
+      "id": 12,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/10.png?alt=media&token=81a98166-ba0c-4df2-b6d4-507690000941"
+      ],
+      "oldPriice": 950,
+      "popularity": 85,
+      "price": 820,
+      "rate": 4,
+      "stock": 15,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 13,
+      "id": 13,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/11.png?alt=media&token=bd9ea01c-42bb-4602-8c8a-ba02772619d9"
+      ],
+      "oldPriice": 950,
+      "popularity": 81,
+      "price": 820,
+      "rate": 5,
+      "stock": 19,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "gold",
+      "discountPercentage": 13,
+      "id": 14,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/12.png?alt=media&token=efe44d5f-74ae-49c1-86c9-1d3df1452dc4"
+      ],
+      "oldPriice": 950,
+      "popularity": 71,
+      "price": 820,
+      "rate": 4,
+      "stock": 29,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 13,
+      "id": 15,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/13.png?alt=media&token=57e859be-38cb-4f60-8200-b8f769da71d8"
+      ],
+      "oldPriice": 950,
+      "popularity": 71,
+      "price": 820,
+      "rate": 3,
+      "stock": 29,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "darkGrey",
+      "discountPercentage": 13,
+      "id": 16,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/14.png?alt=media&token=b578abb4-d88a-4054-9b57-2f7e2e4de000"
+      ],
+      "oldPriice": 950,
+      "popularity": 71,
+      "price": 820,
+      "rate": 5,
+      "stock": 29,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 13,
+      "id": 17,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/15.png?alt=media&token=6df404f6-af0b-4b9a-a03a-3809d0cf7900"
+      ],
+      "oldPriice": 950,
+      "popularity": 76,
+      "price": 820,
+      "rate": 4,
+      "stock": 24,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "grey",
+      "discountPercentage": 9,
+      "id": 18,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/16.png?alt=media&token=16173175-90de-44a7-ac88-a503a17de58c"
+      ],
+      "oldPriice": 1050,
+      "popularity": 25,
+      "price": 950,
+      "rate": 4,
+      "stock": 25,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "gold",
+      "discountPercentage": 13,
+      "id": 19,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/17.png?alt=media&token=f8d0285e-1fe6-427b-8eb1-5ac52b5fcbfa"
+      ],
+      "oldPriice": 1550,
+      "popularity": 80,
+      "price": 1350,
+      "rate": 3,
+      "stock": 20,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 13,
+      "id": 20,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/18.png?alt=media&token=d53b4d6a-bdce-4941-8812-fcadb52d306c"
+      ],
+      "oldPriice": 1550,
+      "popularity": 80,
+      "price": 1350,
+      "rate": 5,
+      "stock": 20,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "darkGrey",
+      "discountPercentage": 11,
+      "id": 21,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/19.png?alt=media&token=897a1376-f5d2-43d3-9ac2-9b7106780cf1"
+      ],
+      "oldPriice": 1750,
+      "popularity": 18,
+      "price": 1550,
+      "rate": 5,
+      "stock": 22,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "silver",
+      "discountPercentage": 11,
+      "id": 22,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/20.png?alt=media&token=3f98d230-14d1-4db0-a803-905ef3c21e98"
+      ],
+      "oldPriice": 1750,
+      "popularity": 18,
+      "price": 1550,
+      "rate": 4,
+      "stock": 22,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 26,
+      "id": 23,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/21.png?alt=media&token=1229c184-f564-4f84-b8f1-e87eda0601ba"
+      ],
+      "oldPriice": 1350,
+      "popularity": 78,
+      "price": 999,
+      "rate": 0,
+      "stock": 22,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "grey",
+      "discountPercentage": 26,
+      "id": 24,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/22.png?alt=media&token=33df2092-7a00-4353-b2c6-6ce2ead4937c"
+      ],
+      "oldPriice": 1350,
+      "popularity": 98,
+      "price": 999,
+      "rate": 5,
+      "stock": 2,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "darkGrey",
+      "discountPercentage": 26,
+      "id": 25,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/23.png?alt=media&token=9f7f043a-3088-4819-a441-d00e7b17830b"
+      ],
+      "oldPriice": 1350,
+      "popularity": 94,
+      "price": 999,
+      "rate": 0,
+      "stock": 6,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 26,
+      "id": 26,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/24.png?alt=media&token=fe7f27e1-6f06-42f3-8d9d-bf68f09ac76d"
+      ],
+      "oldPriice": 1350,
+      "popularity": 92,
+      "price": 999,
+      "rate": 2,
+      "stock": 8,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "white",
+      "discountPercentage": 26,
+      "id": 27,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/25.png?alt=media&token=bd54b901-aaf2-4904-8f09-a3c7734eb293"
+      ],
+      "oldPriice": 1350,
+      "popularity": 80,
+      "price": 999,
+      "rate": 5,
+      "stock": 20,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "bronse",
+      "discountPercentage": 15,
+      "id": 28,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/26.png?alt=media&token=0db0f5b4-c068-4e97-ba8d-b76556539bde"
+      ],
+      "oldPriice": 1990,
+      "popularity": 75,
+      "price": 1680,
+      "rate": 5,
+      "stock": 25,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "gold",
+      "discountPercentage": 15,
+      "id": 29,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/27.png?alt=media&token=6a8a9130-0b8c-4fec-aeee-66fb5e5065a9"
+      ],
+      "oldPriice": 1990,
+      "popularity": 88,
+      "price": 1680,
+      "rate": 3,
+      "stock": 12,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "gold",
+      "discountPercentage": 5,
+      "id": 30,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/28.png?alt=media&token=5b5b43df-37be-487f-96d8-c840c64a8fdb"
+      ],
+      "oldPriice": 2000,
+      "popularity": 83,
+      "price": 1890,
+      "rate": 4,
+      "stock": 17,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "grey",
+      "discountPercentage": 5,
+      "id": 31,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/29.png?alt=media&token=3a2637f4-d77c-42b4-a59c-be6e4882e359"
+      ],
+      "oldPriice": 2000,
+      "popularity": 88,
+      "price": 1890,
+      "rate": 5,
+      "stock": 12,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "white",
+      "discountPercentage": 5,
+      "id": 32,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/30.png?alt=media&token=b907831d-5d87-47d1-9549-01a01b1400d8"
+      ],
+      "oldPriice": 2000,
+      "popularity": 88,
+      "price": 1890,
+      "rate": 5,
+      "stock": 12,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "white",
+      "discountPercentage": 5,
+      "id": 33,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/31.png?alt=media&token=392a6b04-b9cc-45dc-ae62-453e32307faf"
+      ],
+      "oldPriice": 2000,
+      "popularity": 82,
+      "price": 1890,
+      "rate": 5,
+      "stock": 18,
+      "title": "“Декоративная накладка”"
+    },
+    {
+      "category": "фурнитура",
+      "color": "grey",
+      "discountPercentage": 26,
+      "id": 34,
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/dwerka.appspot.com/o/32.png?alt=media&token=4efe5a77-e5c8-4d20-be89-bfbc2903ffa6"
+      ],
+      "oldPriice": 980,
+      "popularity": 90,
+      "price": 720,
+      "rate": 0,
+      "stock": 10,
+      "title": "“Декоративная накладка”"
+    }
+  ]
+}
