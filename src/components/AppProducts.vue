@@ -5,22 +5,22 @@
 		<section class="result">
 			<p class="sorting__by">Сортировать по</p>
 			<ul class="sorting__filters">
-				<li
+				<li class="sorting__filter"
 					@click="sortBypPopularity"
 				>Популярности
 				</li>
-				<li
+				<li class="sorting__filter"
 					@click="sortByPrice"
 				>Цене
 				</li>
-				<li
+				<li class="sorting__filter"
 					@click="sortByRate"
 				>Рейтингу</li>
-				<li
+				<li class="sorting__filter"
 					@click="sortByUpdate"
 				>Обновлению
 				</li>
-				<li
+				<li class="sorting__filter"
 					@click="sortByDiscount"
 				>Скидке
 				</li>
